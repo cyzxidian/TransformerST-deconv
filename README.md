@@ -7,7 +7,7 @@ Framework
 
 ![image](https://github.com/cyzxidian/TransformerST-deconv/blob/main/TransformerST-deconv.png)
 
-The code is licensed under the MIT license.
+The code is licensed under the MIT license. 
 
 **1. Requirements**
 
