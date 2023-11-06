@@ -75,3 +75,4 @@ The defination of each argument in Mouse_Lung_histology.py is listed below. The 
 '--dec_tol', type=float, default=0.00, help='DEC tol.'  
 '--eval_resolution', type=int, default=1, help='Eval cluster number.'  
 '--eval_graph_n', type=int, default=20, help='Eval graph kN tol.' 
+3. Following the implementation of the graph transformer and vision transformer models, the essential components of our deconvolution mixture of experts model can be found within the 'MOE' directory, serving as a reference for further examination.
